@@ -5,11 +5,14 @@
 
 int main(void){
     pid_t child;
-    if(child=fork())
+    int dumb;
+    if(child=fork()){
 	fprintf(stderr,"\nFork devolvio %d por tanto soy el padre con ID = %d",child,getpid());
+	dumb=wait();
+    }
     else{
 	fprintf(stderr,"\nFork devolvio %d por tanto soy el hijo con ID = %d\n",child,getpid());
-	system("pstree > aprocesos.txt");
+	system(frase);
     }
     return 0;
 }

@@ -3,7 +3,8 @@ systemd-+-ModemManager-+-{gdbus}
         |-NetworkManager-+-dhclient
         |                |-dnsmasq
         |                |-{gdbus}
-        |                `-{gmain}
+        |                |-{gmain}
+        |                `-{pool}
         |-accounts-daemon-+-{gdbus}
         |                 `-{gmain}
         |-acpid
@@ -37,7 +38,8 @@ systemd-+-ModemManager-+-{gdbus}
         |         |         |         |                 `-{gmain}
         |         |         |         |-bamfdaemon-+-{dconf worker}
         |         |         |         |            |-{gdbus}
-        |         |         |         |            `-{gmain}
+        |         |         |         |            |-{gmain}
+        |         |         |         |            `-{pool}
         |         |         |         |-compiz-+-{dconf worker}
         |         |         |         |        |-{gdbus}
         |         |         |         |        |-{gmain}
@@ -81,8 +83,13 @@ systemd-+-ModemManager-+-{gdbus}
         |         |         |         |         |-{Cache2 I/O}
         |         |         |         |         |-{Cert Verify}
         |         |         |         |         |-{Compositor}
-        |         |         |         |         |-{DNS Res~ver #40}
-        |         |         |         |         |-{DNS Res~ver #43}
+        |         |         |         |         |-{DNS Res~ver #64}
+        |         |         |         |         |-{DNS Res~ver #74}
+        |         |         |         |         |-{DNS Res~ver #78}
+        |         |         |         |         |-{DNS Res~ver #80}
+        |         |         |         |         |-{DNS Res~ver #81}
+        |         |         |         |         |-{DNS Res~ver #82}
+        |         |         |         |         |-{DNS Res~ver #83}
         |         |         |         |         |-3*[{DOM Worker}]
         |         |         |         |         |-{GMPThread}
         |         |         |         |         |-{Gecko_IOThread}
@@ -99,22 +106,23 @@ systemd-+-ModemManager-+-{gdbus}
         |         |         |         |         |-{Link Monitor}
         |         |         |         |         |-{MediaPD~oder #1}
         |         |         |         |         |-{MediaPD~oder #2}
-        |         |         |         |         |-{MediaPD~oder #3}
         |         |         |         |         |-{MediaPl~ack #43}
         |         |         |         |         |-{MediaPl~ack #44}
         |         |         |         |         |-{MediaPl~ack #45}
         |         |         |         |         |-{MediaPl~ack #46}
         |         |         |         |         |-{MediaPl~ack #47}
-        |         |         |         |         |-{MediaPl~ack #48}
+        |         |         |         |         |-3*[{MediaPl~ack #48}]
         |         |         |         |         |-{MediaPl~ack #49}
         |         |         |         |         |-{MediaPl~ack #50}
         |         |         |         |         |-{MediaPl~ack #51}
         |         |         |         |         |-{MediaPl~ack #52}
-        |         |         |         |         |-3*[{MediaPl~ack #53}]
+        |         |         |         |         |-{MediaPl~ack #53}
         |         |         |         |         |-{MediaTimer #15}
         |         |         |         |         |-{Proxy R~olution}
+        |         |         |         |         |-{SSL Cert #152}
         |         |         |         |         |-{Socket Thread}
         |         |         |         |         |-{SoftwareVsyncTh}
+        |         |         |         |         |-{StreamT~ns #146}
         |         |         |         |         |-{Timer}
         |         |         |         |         |-{URL Classifier}
         |         |         |         |         |-{dconf worker}
@@ -140,10 +148,11 @@ systemd-+-ModemManager-+-{gdbus}
         |         |         |         |                 |-nautilus-+-{dconf worker}
         |         |         |         |                 |          |-{gdbus}
         |         |         |         |                 |          |-{gmain}
-        |         |         |         |                 |          `-40*[{pool}]
+        |         |         |         |                 |          `-41*[{pool}]
         |         |         |         |                 |-nm-applet-+-{dconf worker}
         |         |         |         |                 |           |-{gdbus}
-        |         |         |         |                 |           `-{gmain}
+        |         |         |         |                 |           |-{gmain}
+        |         |         |         |                 |           `-{pool}
         |         |         |         |                 |-polkit-gnome-au-+-{dconf worker}
         |         |         |         |                 |                 |-{gdbus}
         |         |         |         |                 |                 `-{gmain}
@@ -159,7 +168,7 @@ systemd-+-ModemManager-+-{gdbus}
         |         |         |         |                 |-{dconf worker}
         |         |         |         |                 |-{gdbus}
         |         |         |         |                 `-{gmain}
-        |         |         |         |-gnome-terminal--+-bash---nano
+        |         |         |         |-gnome-terminal--+-bash---mypid---mypid---sh---pstree
         |         |         |         |                 |-{dconf worker}
         |         |         |         |                 |-{gdbus}
         |         |         |         |                 `-{gmain}
@@ -239,7 +248,6 @@ systemd-+-ModemManager-+-{gdbus}
         |         |         |         |-indicator-sound-+-{dconf worker}
         |         |         |         |                 |-{gdbus}
         |         |         |         |                 `-{gmain}
-        |         |         |         |-mypid---sh---pstree
         |         |         |         |-notify-osd-+-{dconf worker}
         |         |         |         |            |-{gdbus}
         |         |         |         |            `-{gmain}
