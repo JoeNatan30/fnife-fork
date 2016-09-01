@@ -19,7 +19,6 @@ int main(void){
       close(pipe_fd[0]);
       printf("I am PID[%d] hijo. \n", (int) getpid() );
       for(ii=0;ii<WLOOP;ii++)
-         printf("Escribo mensaje a mi padre\n");
    	 write(pipe_fd[1],message,sizeof(message)-1);
       close(pipe_fd[1]);
    }
