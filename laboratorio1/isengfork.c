@@ -14,4 +14,10 @@ int main(void){
    waitpid(-1,NULL,0);
    printf("Result =%3.3d\n",ii);
    return 0;
+
+   //sprintf(cmd,"pstree -lc %d",getpid());
+   //system(cmd);
+
 }
+
+  
