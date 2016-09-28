@@ -1,0 +1,6 @@
+project Zelda is
+
+   for Main use ("welcome.adb");
+
+end Zelda;
+

@@ -1,0 +1,55 @@
+V "GNAT Lib v5"
+M P W=b
+A -gnatA
+P ZX
+
+RN
+RV NO_FLOATING_POINT
+RV NO_IO
+RV NO_IMPLEMENTATION_PRAGMAS
+RV SPARK_05
+
+U welcome%b		welcome.adb		824a39f8 NE OO SU
+W ada%s			ada.ads			ada.ali
+W ada.text_io%s		a-textio.adb		a-textio.ali
+
+D ada.ads		20070406091342 3ffc8e18 ada%s
+D a-except.ads		20140730140058 5250cb69 ada.exceptions%s
+D a-ioexce.ads		20140225151544 e4a01f64 ada.io_exceptions%s
+D a-stream.ads		20141120112812 119b8fb3 ada.streams%s
+D a-tags.ads		20140730140058 dc4d0634 ada.tags%s
+D a-textio.ads		20140717063745 386df5d4 ada.text_io%s
+D a-unccon.ads		20070406091342 f9eb8f06 ada.unchecked_conversion%s
+D interfac.ads		20141120112812 6033a23f interfaces%s
+D i-cstrea.ads		20140801100435 e53d8b8e interfaces.c_streams%s
+D system.ads		20141031112219 1d274481 system%s
+D s-crtl.ads		20141120112812 0ebbdb71 system.crtl%s
+D s-exctab.ads		20140225151139 54135002 system.exception_table%s
+D s-ficobl.ads		20140718105747 078245e4 system.file_control_block%s
+D s-parame.ads		20140801093848 7e2a0d7f system.parameters%s
+D s-soflin.ads		20140801100131 aa763b52 system.soft_links%s
+D s-stache.ads		20140225151139 a37c21ec system.stack_checking%s
+D s-stalib.ads		20150220094550 fa0a3617 system.standard_library%s
+D s-stoele.ads		20140225151139 2dc34a04 system.storage_elements%s
+D s-traent.ads		20140730135025 005bf670 system.traceback_entries%s
+D s-unstyp.ads		20140731130224 9d58a4c0 system.unsigned_types%s
+D s-wchcon.ads		20140718092328 1b7d22d2 system.wch_con%s
+D welcome.adb		20160928162852 ba27cc2c welcome%b
+X 1 ada.ads
+16K9*Ada 19e8 22|1r6 2r5
+X 6 a-textio.ads
+49K13*Text_IO 471e16 22|1w10 2r9
+263U14*Put_Line 22|20s7 22s7 24s7 28s7 30s7 32s7 37s10 39s10 41s10 43s10
+. 50s7 55s7
+X 22 welcome.adb
+4U11*Welcome 4b11 58l5 58t12
+5i4 i{integer} 17m4 18r10
+6i4 x{integer} 16m4 18m4 18r8 19r8 21r10 35r9 47r10 48m7 48r10 49r22
+7i4 n{integer} 8r17
+8i4 p{integer} 19r12 21r12
+10F9 Degrees<float> 12r17
+12f4 Temperature{10F9} 27r7 29r10
+46l4 baja 49r12 51l13 51e17
+53l4 forWin 56l13 56e19
+54i8 d{integer}
+
