@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<messages>
+  <project>
+    <vfs_file>/home/alulab/Documentos/repo/knife-fork/Fibo/fibonacci.gpr</vfs_file>
+    <category name="Builder results" >
+      <file>
+        <vfs_name>/home/alulab/Documentos/repo/knife-fork/Fibo/fibonacci.adb</vfs_name>
+        <message text="warning: file name does not match unit name, should be &quot;fibo.adb&quot;" weight="1" highlighting_style="Builder warnings/Builder results" column="11" line="4" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+      </file>
+    </category>
+  </project>
+</messages>

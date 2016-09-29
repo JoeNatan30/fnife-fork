@@ -1,0 +1,6 @@
+project Es_Primo is
+
+   for Main use ("es_primo.adb");
+
+end Es_Primo;
+

@@ -1,0 +1,6 @@
+project Factorial is
+
+   for Main use ("factorial.adb");
+
+end Factorial;
+

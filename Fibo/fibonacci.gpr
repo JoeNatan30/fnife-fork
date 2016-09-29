@@ -1,0 +1,6 @@
+project Fibonacci is
+
+   for Main use ("fibonacci.adb");
+
+end Fibonacci;
+

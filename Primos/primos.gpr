@@ -1,0 +1,6 @@
+project Primos is
+
+   for Main use ("primos.adb");
+
+end Primos;
+

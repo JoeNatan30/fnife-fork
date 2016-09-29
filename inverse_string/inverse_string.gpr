@@ -1,0 +1,6 @@
+project Inverse_String is
+
+   for Main use ("inverse_string.adb");
+
+end Inverse_String;
+
