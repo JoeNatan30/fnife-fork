@@ -1,0 +1,106 @@
+V "GNAT Lib v5"
+M P W=b
+A -gnatA
+P ZX
+
+RN
+RV NO_EXCEPTION_HANDLERS
+RV NO_EXCEPTIONS
+RV NO_IO
+RV NO_IMPLICIT_DYNAMIC_CODE
+RV NO_SELECT_STATEMENTS
+RV NO_STANDARD_STORAGE_POOLS
+RV NO_TASK_HIERARCHY
+RV NO_TASKING
+RV NO_DEFAULT_INITIALIZATION
+RV NO_IMPLEMENTATION_PRAGMAS
+RV SPARK_05
+RV MAX_SELECT_ALTERNATIVES=2
+RV MAX_TASK_ENTRIES=2
+RV MAX_TASKS=1+
+
+U protectpc%b		protectpc.adb		9224eeb9 NE OO SU
+W ada%s			ada.ads			ada.ali
+W ada.real_time%s	a-reatim.adb		a-reatim.ali
+W ada.tags%s		a-tags.adb		a-tags.ali
+W ada.text_io%s		a-textio.adb		a-textio.ali
+W interfaces%s		interfac.ads		interfac.ali
+W system%s		system.ads		system.ali
+W system.parameters%s	s-parame.adb		s-parame.ali
+W system.soft_links%s	s-soflin.adb		s-soflin.ali
+W system.task_info%s	s-tasinf.adb		s-tasinf.ali
+W system.tasking%s	s-taskin.adb		s-taskin.ali
+W system.tasking.rendezvous%s  s-tasren.adb	s-tasren.ali
+W system.tasking.stages%s  s-tassta.adb		s-tassta.ali
+
+D ada.ads		20070406091342 3ffc8e18 ada%s
+D a-except.ads		20140730140058 5250cb69 ada.exceptions%s
+D a-finali.ads		20140611123707 69f99942 ada.finalization%s
+D a-ioexce.ads		20140225151544 e4a01f64 ada.io_exceptions%s
+D a-reatim.ads		20141120112812 02069903 ada.real_time%s
+D a-stream.ads		20141120112812 119b8fb3 ada.streams%s
+D a-tags.ads		20140730140058 dc4d0634 ada.tags%s
+D a-textio.ads		20140717063745 386df5d4 ada.text_io%s
+D a-unccon.ads		20070406091342 f9eb8f06 ada.unchecked_conversion%s
+D interfac.ads		20141120112812 6033a23f interfaces%s
+D i-c.ads		20110801143639 5421119b interfaces.c%s
+D i-cstrea.ads		20140801100435 e53d8b8e interfaces.c_streams%s
+D protectpc.adb		20160930014227 aa491b6d protectpc%b
+D system.ads		20141031112219 1d274481 system%s
+D s-atacco.ads		20120515093410 4c36d12f system.address_to_access_conversions%s
+D s-crtl.ads		20141120112812 0ebbdb71 system.crtl%s
+D s-exctab.ads		20140225151139 54135002 system.exception_table%s
+D s-ficobl.ads		20140718105747 078245e4 system.file_control_block%s
+D s-finroo.ads		20120426095924 4ff27390 system.finalization_root%s
+D s-linux.ads		20150107101203 2fda6ad1 system.linux%s
+D s-multip.ads		20101011073009 38ac9f73 system.multiprocessors%s
+D s-oscons.ads		20160808130551 4bd50652 system.os_constants%s
+D s-osinte.ads		20150107101203 e9e28195 system.os_interface%s
+D s-parame.ads		20140801093848 7e2a0d7f system.parameters%s
+D s-soflin.ads		20140801100131 aa763b52 system.soft_links%s
+D s-stache.ads		20140225151139 a37c21ec system.stack_checking%s
+D s-stausa.ads		20110804134155 017a0a05 system.stack_usage%s
+D s-stalib.ads		20150220094550 fa0a3617 system.standard_library%s
+D s-stoele.ads		20140225151139 2dc34a04 system.storage_elements%s
+D s-tasinf.ads		20140613095942 2b3f8252 system.task_info%s
+D s-taspri.ads		20141120144719 e3ab4429 system.task_primitives%s
+D s-taprop.ads		20140521131406 1dd2e1b6 system.task_primitives.operations%s
+D s-taskin.ads		20150106085750 339749f0 system.tasking%s
+D s-taprob.ads		20110927094500 502249e3 system.tasking.protected_objects%s
+D s-tpoben.ads		20121029113218 b641f948 system.tasking.protected_objects.entries%s
+D s-tasren.ads		20120208100446 a67a9949 system.tasking.rendezvous%s
+D s-tassta.ads		20121029110946 70812003 system.tasking.stages%s
+D s-traent.ads		20140730135025 005bf670 system.traceback_entries%s
+D s-unstyp.ads		20140731130224 9d58a4c0 system.unsigned_types%s
+D s-wchcon.ads		20140718092328 1b7d22d2 system.wch_con%s
+X 1 ada.ads
+16K9*Ada 19e8 13|1r6 1r23
+X 8 a-textio.ads
+49K13*Text_IO 471e16 13|1w10 1r27
+242U14*Put 13|88s4
+X 13 protectpc.adb
+3U11*ProtectPC 3b11 90l5 90t14
+5M9 Index 6r31 20r31
+6A9 Buffer_Array(integer)<5M9> 19r10
+10t9 Buffer 18b14 40l8 40t14 69r10 79r10
+11Y13 Append 11>20 26b23 28l20 28t26 69s17
+11i20 I{integer} 27r32
+12Y13 Take 12<18 33b23 35l20 35t24 79s17
+12i18 I{integer} 34m19 34r19
+19a7 B{6A9} 27m19 34r24
+20m7 In_Ptr{5M9} 27r21 30m16 30r26
+20m15 Out_Ptr{5M9} 34r26 37m16 37r27
+20m24 Count{5M9} 29m16 29r25 32r18 36m16 36r25
+26i30 I{integer}
+33i28 I{integer}
+64t9 Producer 65b14 71l8 71t16
+67i11 N{integer} 69r24
+74T14 Consumer 74d23 75b14 82l8 82t16 84r8 85r8
+74i23 ID{integer}
+76i7 N{integer} 79m22
+84t4 C1{74T14}
+85t4 C2{74T14}
+X 27 s-stausa.ads
+203U14*Initialize 204i<c,__gnat_stack_usage_initialize>22
+268U14*Output_Results 272i<c,__gnat_stack_usage_output_results>22
+

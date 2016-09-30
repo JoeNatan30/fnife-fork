@@ -1,0 +1,7 @@
+project Productor_Consumidor is
+
+   for Source_Dirs use (".");
+   for Main use ("protectpc.adb");
+
+end Productor_Consumidor;
+

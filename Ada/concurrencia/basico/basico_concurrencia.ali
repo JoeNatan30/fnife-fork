@@ -1,0 +1,104 @@
+V "GNAT Lib v5"
+M P W=b
+A -gnatA
+P ZX
+
+RN
+RV NO_IO
+RV NO_IMPLICIT_DYNAMIC_CODE
+RV NO_STANDARD_STORAGE_POOLS
+RV NO_TASK_HIERARCHY
+RV NO_TASKING
+RV NO_DEFAULT_INITIALIZATION
+RV NO_IMPLEMENTATION_PRAGMAS
+RV SPARK_05
+RV MAX_TASK_ENTRIES=1
+RV MAX_TASKS=1+
+
+U basico_concurrencia%b	basico_concurrencia.adb	16423e66 NE OO SU IL
+W ada%s			ada.ads			ada.ali
+W ada.real_time%s	a-reatim.adb		a-reatim.ali
+W ada.tags%s		a-tags.adb		a-tags.ali
+W ada.text_io%s		a-textio.adb		a-textio.ali
+W system%s		system.ads		system.ali
+W system.parameters%s	s-parame.adb		s-parame.ali
+W system.soft_links%s	s-soflin.adb		s-soflin.ali
+W system.task_info%s	s-tasinf.adb		s-tasinf.ali
+W system.tasking%s	s-taskin.adb		s-taskin.ali
+W system.tasking.rendezvous%s  s-tasren.adb	s-tasren.ali
+W system.tasking.stages%s  s-tassta.adb		s-tassta.ali
+
+D ada.ads		20070406091342 3ffc8e18 ada%s
+D a-except.ads		20140730140058 5250cb69 ada.exceptions%s
+D a-finali.ads		20140611123707 69f99942 ada.finalization%s
+D a-ioexce.ads		20140225151544 e4a01f64 ada.io_exceptions%s
+D a-reatim.ads		20141120112812 02069903 ada.real_time%s
+D a-stream.ads		20141120112812 119b8fb3 ada.streams%s
+D a-tags.ads		20140730140058 dc4d0634 ada.tags%s
+D a-textio.ads		20140717063745 386df5d4 ada.text_io%s
+D a-unccon.ads		20070406091342 f9eb8f06 ada.unchecked_conversion%s
+D basico_concurrencia.adb  20160929233011 2e2fcbb2 basico_concurrencia%b
+D interfac.ads		20141120112812 6033a23f interfaces%s
+D i-c.ads		20110801143639 5421119b interfaces.c%s
+D i-cstrea.ads		20140801100435 e53d8b8e interfaces.c_streams%s
+D system.ads		20141031112219 1d274481 system%s
+D s-atacco.ads		20120515093410 4c36d12f system.address_to_access_conversions%s
+D s-crtl.ads		20141120112812 0ebbdb71 system.crtl%s
+D s-exctab.ads		20140225151139 54135002 system.exception_table%s
+D s-ficobl.ads		20140718105747 078245e4 system.file_control_block%s
+D s-finroo.ads		20120426095924 4ff27390 system.finalization_root%s
+D s-linux.ads		20150107101203 2fda6ad1 system.linux%s
+D s-multip.ads		20101011073009 38ac9f73 system.multiprocessors%s
+D s-oscons.ads		20160808130551 4bd50652 system.os_constants%s
+D s-osinte.ads		20150107101203 e9e28195 system.os_interface%s
+D s-parame.ads		20140801093848 7e2a0d7f system.parameters%s
+D s-soflin.ads		20140801100131 aa763b52 system.soft_links%s
+D s-stache.ads		20140225151139 a37c21ec system.stack_checking%s
+D s-stausa.ads		20110804134155 017a0a05 system.stack_usage%s
+D s-stalib.ads		20150220094550 fa0a3617 system.standard_library%s
+D s-stoele.ads		20140225151139 2dc34a04 system.storage_elements%s
+D s-tasinf.ads		20140613095942 2b3f8252 system.task_info%s
+D s-taspri.ads		20141120144719 e3ab4429 system.task_primitives%s
+D s-taprop.ads		20140521131406 1dd2e1b6 system.task_primitives.operations%s
+D s-taskin.ads		20150106085750 339749f0 system.tasking%s
+D s-taprob.ads		20110927094500 502249e3 system.tasking.protected_objects%s
+D s-tpoben.ads		20121029113218 b641f948 system.tasking.protected_objects.entries%s
+D s-tasren.ads		20120208100446 a67a9949 system.tasking.rendezvous%s
+D s-tassta.ads		20121029110946 70812003 system.tasking.stages%s
+D s-traent.ads		20140730135025 005bf670 system.traceback_entries%s
+D s-unstyp.ads		20140731130224 9d58a4c0 system.unsigned_types%s
+D s-wchcon.ads		20140718092328 1b7d22d2 system.wch_con%s
+X 1 ada.ads
+16K9*Ada 19e8 10|1r6 2r5
+X 8 a-textio.ads
+49K13*Text_IO 471e16 10|1w10 2r9
+263U14*Put_Line 10|32s10 47s10 61s10 74s10 89s10 99s10
+X 10 basico_concurrencia.adb
+4U11*basico_concurrencia 4b11 102l5 102t24
+5t9 tarea1 27b14 36l8 36t14
+6t9 tarea2 34r7 39b14 51l8 51t14
+7Y13 uno_dos 34s14 42b14 44t10
+10t9 tarea3 35r7 53b14 64l8 64t14
+11Y13 uno_tres 35s14 56b14 58t10
+14t9 tarea4 49r7 66b14 77l8 77t14
+15Y13 dos_cuatro 49s14 69b14 71t10
+18t9 tarea5 50r7 63r7 79b14 92l8 92t14
+19Y13 dos_cinco 50s14 82b14 84t10
+20Y13 tres_cinco 63s14 85b14 87t10
+24i4 final{positive} 98r20
+28i7 final{positive} 31r23
+30l7 taskfor1 33l16 33e24
+31i11 count{integer}
+40i7 final{positive} 46r23
+46i11 count{integer}
+54i7 final{positive} 60r23
+60i11 count{integer}
+67i7 final{positive} 73r23
+73i11 count{integer}
+80i7 final{positive} 88r23
+88i11 count{integer}
+98i8 count{integer}
+X 27 s-stausa.ads
+203U14*Initialize 204i<c,__gnat_stack_usage_initialize>22
+268U14*Output_Results 272i<c,__gnat_stack_usage_output_results>22
+

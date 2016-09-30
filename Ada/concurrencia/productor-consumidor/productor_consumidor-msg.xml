@@ -1,0 +1,254 @@
+<?xml version="1.0"?>
+<messages >
+  <project>
+    <vfs_file>/home/alulab/Documentos/repo/knife-fork/Ada/concurrencia/productor-consumidor/productor_consumidor.gpr</vfs_file>
+    <category name="Error converting from UTF8 to ISO-8859-1" >
+      <file>
+        <vfs_name>/home/alulab/Documentos/repo/knife-fork/Ada/concurrencia/productor-consumidor/protectpc.adb</vfs_name>
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="27" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="33" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="52" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="60" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="64" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="77" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="80" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="25" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="45" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="61" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="25" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="45" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="61" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="25" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="45" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="61" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="24" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="44" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="60" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="21" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="41" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="57" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="22" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="42" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="58" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="22" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="42" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="58" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="19" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="39" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="55" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="20" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="40" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="56" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="20" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="40" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="56" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="21" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="41" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="57" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="24" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="44" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="60" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="24" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="44" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="60" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="26" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="46" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="62" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="26" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="46" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="62" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="27" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="47" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="63" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="39" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="55" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="40" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="56" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="40" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="56" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="40" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="56" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="41" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="56" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="41" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="54" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="41" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="53" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="41" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="54" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="41" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="54" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="41" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="54" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="39" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="52" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="38" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="51" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="38" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="51" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="38" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="51" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="38" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="51" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="38" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="51" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="38" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="51" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="38" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="51" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="42" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="55" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="42" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="55" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="42" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="55" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="42" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="54" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="42" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="54" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="42" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="54" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="42" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="54" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="42" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="54" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="42" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="54" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="42" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="54" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="42" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="54" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="42" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="54" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="42" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="54" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="41" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="53" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="41" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="53" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="41" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="53" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="41" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="53" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="41" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="53" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="41" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="53" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="24" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="81" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="93" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="24" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="74" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="86" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="24" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="74" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="86" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="24" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="74" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="86" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="24" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="75" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="87" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="24" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="75" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="87" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="24" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="74" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="86" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="24" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="70" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="82" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="25" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="71" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="83" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="24" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="70" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="82" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="24" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="70" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="82" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="24" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="70" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="82" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="25" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="69" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="81" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="25" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="69" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="81" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="25" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="69" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="81" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="25" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="68" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="80" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="25" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="68" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="80" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="25" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="68" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="80" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="25" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="68" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="80" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="25" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="68" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="80" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="25" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="68" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="80" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="25" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="68" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="80" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="25" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="68" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="80" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="25" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="78" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="90" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="25" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="78" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="90" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="25" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="78" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="90" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="25" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="78" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="90" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="25" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="78" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="90" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="25" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="78" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="90" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="25" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="68" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="80" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="25" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="68" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" actual_line="1" column="1" line="80" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" column="1" line="25" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" column="1" line="68" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" column="1" line="80" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" column="1" line="25" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" column="1" line="68" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" column="1" line="80" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" column="1" line="25" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" column="1" line="68" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" column="1" line="80" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" column="1" line="25" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" column="1" line="68" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" column="1" line="80" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" column="1" line="25" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" column="1" line="68" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" column="1" line="80" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" column="1" line="25" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" column="1" line="68" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" column="1" line="80" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" column="1" line="25" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" column="1" line="68" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+        <message text="Hay una secuencia de bytes no válida en la entrada de conversión" column="1" line="80" class="GPS.KERNEL.MESSAGES.SIMPLE.SIMPLE_MESSAGE"  />
+      </file>
+    </category>
+  </project>
+</messages>

@@ -1,0 +1,6 @@
+project Basico_Concurrencia is
+
+   for Main use ("basico_concurrencia.adb");
+
+end Basico_Concurrencia;
+
