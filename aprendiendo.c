@@ -8,7 +8,7 @@ algoritmo 1
 
 algoritmo 2
 
-imprimir Reporte
+impresion de reporte
 
 exit
 
