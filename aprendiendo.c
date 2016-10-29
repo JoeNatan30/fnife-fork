@@ -4,9 +4,7 @@ iniciar Datos
 
 lectura
 
-algoritmo 1
-
-algoritmo 2
+algoritmo
 
 impresion de reporte
 
